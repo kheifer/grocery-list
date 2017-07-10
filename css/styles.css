@@ -1,0 +1,9 @@
+.container-fluid{
+  background-color: skyblue;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+#grocery-list{
+  display: none;
+}
